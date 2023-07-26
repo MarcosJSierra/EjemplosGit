@@ -1,2 +1,1 @@
 Esto es el archivo base de ejemplo
-Este texto no deberia estar 
